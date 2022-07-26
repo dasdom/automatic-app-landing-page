@@ -37,11 +37,11 @@ features                                  :
 
   - title                                 : Physics Formulas
     description                           : Quickly find the most important Physics formulas.
-    fontawesome_icon_name                 : telescope 
+    fontawesome_icon_name                 : magnet 
     
   - title                                 : Math Formulas
     description                           : A small but growing collection of math formulas.
-    fontawesome_icon_name                 : function 
+    fontawesome_icon_name                 : devide 
 
   - title                                 : Formula Calculators
     description                           : Use the build-in calculators to quick and easy calculate results for most of the formulas.
