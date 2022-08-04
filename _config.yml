@@ -26,7 +26,7 @@ your_city                                 : Düsseldorf
 email_address                             : dominik.hauser@dasdom.de
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : dasdom
+twitter_username                          : PhyApp
 github_username                           : dasdom
 youtube_username                          :
 
@@ -61,7 +61,7 @@ features                                  :
 
   - title                                 : Converter
     description                           : Convert between different physical units
-    fontawesome_icon_name                 : arrow-right-arrow-left
+    fontawesome_icon_name                 : arrow-left-right
 
 
 
