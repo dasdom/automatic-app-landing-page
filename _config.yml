@@ -61,7 +61,7 @@ features                                  :
 
   - title                                 : Converter
     description                           : Convert between different physical units
-    fontawesome_icon_name                 : arrow-left-right
+    fontawesome_icon_name                 : screwdriver-wrench
 
 
 
