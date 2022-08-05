@@ -59,11 +59,6 @@ features                                  :
     description                           : While preparing for a test, favorite formulas you need to remember to find them even quicker.
     fontawesome_icon_name                 : star
 
-  - title                                 : Converter
-    description                           : Convert between different physical units
-    fontawesome_icon_name                 : screwdriver-wrench
-
-
 
 # Theme Settings
 topbar_color                              : "#000000"
